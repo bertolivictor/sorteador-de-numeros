@@ -9,13 +9,7 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
 - **Sorteio Personalizado:**
   - Escolha a **quantidade** de números a serem sorteados.
   - Defina o intervalo numérico com os campos **De** e **Até**.
-- **Números Únicos:**
   - Garantia de que os números sorteados **não se repetem**.
-- **Interface Intuitiva:**
-  - Botão **Sortear** para gerar os números.
-  - Botão **Reiniciar** para limpar os campos e resultados.
-- **Responsivo:**
-  - Design adaptável para diferentes dispositivos.
 
 ---
 
@@ -26,7 +20,7 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
    - Especifique o intervalo nos campos **De** e **Até**.
 
 2. **Clique em Sortear:**
-   - Os números sorteados serão exibidos abaixo dos botões.
+   - Os números sorteados serão exibidos na tela.
 
 3. **Reiniciar:**
    - Após o sorteio, clique em **Reiniciar** para limpar os campos e resultados.
