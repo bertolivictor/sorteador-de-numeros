@@ -13,7 +13,7 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
 
 ---
 
-## 🚀 Como Usar
+## 👨🏻‍🏫 Como Usar
 
 1. **Defina os Parâmetros:**
    - Insira a quantidade de números no campo **Quantidade**.
