@@ -1,9 +1,5 @@
 # 🎲 Sorteador Numérico
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/sorteador-numerico?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/sorteador-numerico?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/sorteador-numerico?style=for-the-badge)
-
 O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar números aleatórios dentro de um intervalo definido pelo usuário. Perfeito para sorteios, jogos ou qualquer situação que exija números únicos e aleatórios.
 
 ---
