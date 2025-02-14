@@ -1,4 +1,4 @@
-# 🎲 Sorteador Numérico
+# 🎲 Sorteador de números
 
 O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar números aleatórios dentro de um intervalo definido pelo usuário. Perfeito para sorteios, jogos ou qualquer situação que exija números únicos e aleatórios.
 
