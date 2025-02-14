@@ -27,7 +27,7 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
    - Os números sorteados serão exibidos na tela.
   
     <div align="center">
-<img src="https://github.com/user-attachments/assets/dce577d7-636a-43d7-97f9-e11e19682914" width="1200px" />
+<img src="https://github.com/user-attachments/assets/4105b8da-72b5-475d-8e9b-baddda9b7108" width="1200px" />
 </div>
 
 3. **Reiniciar:**
@@ -41,7 +41,7 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
   - Quantidade: `5`
   - De: `1`
   - Até: `50`
-  - Resultado: `[7, 23, 15, 34, 42]`
+  - Resultado: `[35, 33, 30, 8, 49]`
 
 ---
 
