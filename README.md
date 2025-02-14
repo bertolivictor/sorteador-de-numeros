@@ -1,6 +1,6 @@
 # 🎲 Sorteador de números
 
-O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar números aleatórios dentro de um intervalo definido pelo usuário. Perfeito para sorteios, jogos ou qualquer situação que exija números únicos e aleatórios.
+O **Sorteador de números** é eficiente para gerar números aleatórios sem repeticão, dentro de um intervalo definido pelo usuário. Perfeito para sorteios, jogos ou qualquer situação que exija números únicos e aleatórios.
 
 ---
 
@@ -50,7 +50,8 @@ O **Sorteador Numérico** é uma aplicação web simples e eficiente para gerar 
 - **Frontend:**
   - HTML5
   - CSS3
-  - JavaScript (ES6+)
+  - JavaScript
+ 
 - **Funcionalidades:**
   - Geração de números aleatórios.
   - Manipulação do DOM.
